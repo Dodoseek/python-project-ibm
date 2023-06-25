@@ -1,1 +1,1 @@
-# python-project-ibm
+# coding-project-template
